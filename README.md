@@ -17,4 +17,5 @@ Test size:  2,263 (20%)
 
 ## Model
 Model: Multinomial NaiveBayes
+
 Accuracy: 88.24%
